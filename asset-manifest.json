@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pages-nosov-calculator-bioethanol/static/css/main.0d66e13b.css",
+    "main.js": "/pages-nosov-calculator-bioethanol/static/js/main.49eb68db.js",
+    "static/js/787.ca162499.chunk.js": "/pages-nosov-calculator-bioethanol/static/js/787.ca162499.chunk.js",
+    "index.html": "/pages-nosov-calculator-bioethanol/index.html",
+    "main.0d66e13b.css.map": "/pages-nosov-calculator-bioethanol/static/css/main.0d66e13b.css.map",
+    "main.49eb68db.js.map": "/pages-nosov-calculator-bioethanol/static/js/main.49eb68db.js.map",
+    "787.ca162499.chunk.js.map": "/pages-nosov-calculator-bioethanol/static/js/787.ca162499.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d66e13b.css",
+    "static/js/main.49eb68db.js"
+  ]
+}
